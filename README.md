@@ -71,6 +71,7 @@ for item in a.items():
 3. Nilai Akhir diambil dari perhitungan 3 komponen nilai (tugas: 30%,uts: 35%, uas: 35%)
 4. Buat flowchart dan penjelasan programnya pada README.md.
 ### Flowchart program Daftar Nilai Siswa
+![Flowchart1](flowchart.png)
 ### Penjelasan
 1. ``dataMhs = {}`` Berikut adalah Directory program
 2. Gunakan perulangan ``while``
